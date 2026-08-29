@@ -1,0 +1,23 @@
+# Secrets and machine-local config
+.env
+local.properties
+
+# Gradle / Android build
+.gradle/
+build/
+**/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Captures / local keystores
+*.jks
+*.keystore
+!debug.keystore

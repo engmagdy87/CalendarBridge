@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calendar Bridge</string>
+
+    <!-- oauth_client_id and oauth_redirect_uri are injected from .env by Gradle (resValue). -->
+
+    <string name="account_type">com.calendarbridge.account</string>
+    <string name="content_authority">com.android.calendar</string>
+</resources>
